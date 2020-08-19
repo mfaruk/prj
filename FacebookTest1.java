@@ -87,6 +87,7 @@ public class FacebookTest1 {
              return numaricValue;
   }
 	//convert to string by using switch statement.
+	//i added this line.
 	return null;
 	
 }
